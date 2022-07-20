@@ -1,0 +1,11 @@
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\4\vb\PitagorasVB\PitagorasVB\bin\Debug\PitagorasVB.exe.config
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\4\vb\PitagorasVB\PitagorasVB\bin\Debug\PitagorasVB.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\4\vb\PitagorasVB\PitagorasVB\bin\Debug\PitagorasVB.pdb
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\4\vb\PitagorasVB\PitagorasVB\bin\Debug\PitagorasVB.xml
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\4\vb\PitagorasVB\PitagorasVB\obj\Debug\PitagorasVB.vbprojAssemblyReference.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\4\vb\PitagorasVB\PitagorasVB\obj\Debug\PitagorasVB.frmTeorema.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\4\vb\PitagorasVB\PitagorasVB\obj\Debug\PitagorasVB.Resources.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\4\vb\PitagorasVB\PitagorasVB\obj\Debug\PitagorasVB.vbproj.GenerateResource.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\4\vb\PitagorasVB\PitagorasVB\obj\Debug\PitagorasVB.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\4\vb\PitagorasVB\PitagorasVB\obj\Debug\PitagorasVB.xml
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\4\vb\PitagorasVB\PitagorasVB\obj\Debug\PitagorasVB.pdb

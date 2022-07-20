@@ -1,0 +1,9 @@
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\4\cs\PitagorasCS\PitagorasCS\bin\Debug\PitagorasCS.exe.config
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\4\cs\PitagorasCS\PitagorasCS\bin\Debug\PitagorasCS.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\4\cs\PitagorasCS\PitagorasCS\bin\Debug\PitagorasCS.pdb
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\4\cs\PitagorasCS\PitagorasCS\obj\Debug\PitagorasCS.csprojAssemblyReference.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\4\cs\PitagorasCS\PitagorasCS\obj\Debug\PitagorasCS.Form1.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\4\cs\PitagorasCS\PitagorasCS\obj\Debug\PitagorasCS.Properties.Resources.resources
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\4\cs\PitagorasCS\PitagorasCS\obj\Debug\PitagorasCS.csproj.GenerateResource.cache
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\4\cs\PitagorasCS\PitagorasCS\obj\Debug\PitagorasCS.exe
+C:\Users\CarlosLap\Documents\Visual Studio 2019\Projects\4\cs\PitagorasCS\PitagorasCS\obj\Debug\PitagorasCS.pdb
